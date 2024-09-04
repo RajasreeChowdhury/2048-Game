@@ -47,6 +47,12 @@ This project is a React-based implementation of the popular puzzle game 2048. In
 - `utils.js`
 - `src/style.css`: Styling for the game
 
+
+## Deployment Link 
+
+https://2048-game-ebyy8451d-rajasree-chowdhurys-projects.vercel.app/
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
